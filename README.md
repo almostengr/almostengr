@@ -14,3 +14,14 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+## Currently Learning
+
+* .Net Core
+* Web API
+* Typescript
+
+## How to reach me
+
+* [Instagram](https://Instagram.com/almostengr)
+* [Twitter](https://twitter.com/almostengr)
