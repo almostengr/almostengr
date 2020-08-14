@@ -15,13 +15,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-## Currently Learning
-
-* .Net Core
-* Web API
-* Typescript
-
-## How to reach me
+## Reach Me
 
 * [Instagram](https://Instagram.com/almostengr)
+* [LinkedIn](https://linkedin.com/in/krobinsontech)
 * [Twitter](https://twitter.com/almostengr)
+* [My Website](https://thealmostengineer.com)
