@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-## Reach Me
+Find out more about me by visiting:
 
 * [Instagram](https://Instagram.com/almostengr)
 * [LinkedIn](https://linkedin.com/in/krobinsontech)
