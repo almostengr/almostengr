@@ -20,4 +20,5 @@ Find out more about me by visiting:
 * [Instagram](https://Instagram.com/almostengr)
 * [LinkedIn](https://linkedin.com/in/krobinsontech)
 * [Twitter](https://twitter.com/almostengr)
+* [YouTube](https://www.youtube.com/channel/UC4HCouBLtXD1j1U_17aBqig?sub_confirmation=1)
 * [My Website](https://thealmostengineer.com)
