@@ -15,10 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-Find out more about me by visiting:
-
-* [Instagram](https://Instagram.com/almostengr)
-* [LinkedIn](https://linkedin.com/in/krobinsontech)
-* [Twitter](https://twitter.com/almostengr)
-* [YouTube](https://www.youtube.com/channel/UC4HCouBLtXD1j1U_17aBqig?sub_confirmation=1)
-* [My Website](https://thealmostengineer.com)
+I'm currently working on [a plugin for Falcon Pi Player](https://thealmostengineer.com/falconpimonitor).
+You can find a full list of my projects by viewing [my portfolio](https://thealmostengineer.com/portfolio).
+Find out more about me by visiting [my blog](https://thealmostengineer.com).
