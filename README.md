@@ -16,5 +16,5 @@ Here are some ideas to get you started:
 -->
 
 I'm currently working on [a plugin for Falcon Pi Player](https://thealmostengineer.com/falconpimonitor).
-You can find a full list of my projects by viewing [my portfolio](https://thealmostengineer.com/portfolio).
+You can find a full list of my projects by viewing [my portfolio](https://thealmostengineer.com/projects).
 Find out more about me by visiting [my blog](https://thealmostengineer.com).
