@@ -1,0 +1,10 @@
+# name: Update latest blog posts
+# on:
+#   schedule: 
+#     - cron: '0 6 * * *'
+
+# jobs:
+#   update-latest-posts:
+#     runs-on: ubuntu-latest
+#       steps:
+#         -
