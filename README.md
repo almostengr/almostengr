@@ -19,11 +19,12 @@ Here are some ideas to get you started:
 
 * Programmer / Software Developer with over 12 years experience in the IT industry.
 * Primary work with C# and .NET Core to create web-based applications, automations, and software solutions.
-* Share my personal projects and work on [YouTube](https://www.youtube.com/channel/UC4HCouBLtXD1j1U_17aBqig?sub_confirmation=1) and [my blog](https://thealmostengineer.com)
-* Active member of ToastMasters
+* Share my personal projects and work on [YouTube](https://www.youtube.com/channel/UC4HCouBLtXD1j1U_17aBqig?sub_confirmation=1) and [my blog](https://thealmostengineer.com).
+* Active member of ToastMasters.
 
 ## Recent Projects
 
+* [Pet Feeder](https://github.com/almostengr/petfeeder) - application that is designed for Raspberry Pi that will dispense and track pet food and water
 * [Falcon Pi Twitter](https://thealmostengineer.com/falconpitwitter) - an application to post Falcon Pi Player song information to Twitter
 * [Ecobee Status Monitor](https://thealmostengineer.com/ecobeestatus) - application that checks the Ecobee Status website and then posts the result to Home Assistant
 * [Thermometer Pi](https://thealmostengineer.com/thermometerpi) - application that sends thermostat sensor data to Home Assistant to control air conditioning system
