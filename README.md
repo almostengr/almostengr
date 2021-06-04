@@ -30,3 +30,11 @@ Here are some ideas to get you started:
 * [Thermometer Pi](https://thealmostengineer.com/thermometerpi) - application that sends thermostat sensor data to Home Assistant to control air conditioning system
 
 You can find a full list of my projects by viewing [my portfolio](https://thealmostengineer.com/projects).
+
+## Connect With Me
+
+[Blog](https://thealmostengineer.com) 
+[Instagram](https://www.instagram.com/almostengr)
+[LinkedIn](https://www.linkedin.com/in/krobinsontech)
+[Twitter](https://twitter.com/almostengr)
+[Business Inquiries](https://rhtservices.net)
