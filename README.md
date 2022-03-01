@@ -20,16 +20,11 @@ Here are some ideas to get you started:
 * Programmer / Software Developer with over 12 years experience in the IT industry. Previous experience includes RPA (Robotic Process Automation) and Level 2 Application Support.
 * Primarily work with C#, .NET 5, HTML, CSS, and TypeScript to create web-based applications, automations, and software solutions. In the past, I've worked with Oracle, Linux, Shell Scripting, PHP, Java, C++, and more.
 * Share my personal projects and work on [YouTube](https://www.youtube.com/channel/UC4HCouBLtXD1j1U_17aBqig?sub_confirmation=1) and [my blog](https://thealmostengineer.com).
-* Active member of ToastMasters.
 
 ## Projects
 
-* [Pet Feeder](https://github.com/almostengr/petfeeder) - application that is designed for Raspberry Pi that will dispense and track pet food and water
-* [Falcon Pi Twitter](https://thealmostengineer.com/projects/falcon-pi-twitter) - an application to post Falcon Pi Player song information to Twitter
-* [Ecobee Status Monitor](https://thealmostengineer.com/projects/ecobeestatus/) - application that checks the Ecobee Status website and then posts the result to Home Assistant
-* [Thermometer Pi](https://thealmostengineer.com/projects/thermometer-pi) - application that sends thermostat sensor data to Home Assistant to control air conditioning system
-
-You can find a full list of my projects by viewing [my portfolio](https://thealmostengineer.com/projects).
+You can find a full list of my projects by checkout out [my repositories](https://github.com/almostengr?tab=repositories)
+and by viewing [my portfolio](https://thealmostengineer.com/projects).
 
 ## Connect With Me
 
