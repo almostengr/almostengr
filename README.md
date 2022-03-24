@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 
 ## Projects
 
-You can find a full list of my projects by checkout out [my repositories](https://github.com/almostengr?tab=repositories)
+You can find a full list of my projects by checking out [my repositories](https://github.com/almostengr?tab=repositories)
 and by viewing [my portfolio](https://thealmostengineer.com/projects).
 
 ## Connect With Me
