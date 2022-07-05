@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 ## Personal Summary
 
-* Programmer / Software Developer with over 12 years experience in the IT industry. Previous experience includes RPA (Robotic Process Automation) and Level 2 Application Support.
+* Programmer / Software Developer who has worked in the IT industry since 2008. Previous experience includes RPA (Robotic Process Automation) and Level 2 Application Support.
 * Primarily work with C#, .NET 5, HTML, CSS, and TypeScript to create web-based applications, automations, and software solutions. In the past, I've worked with Oracle, Linux, Shell Scripting, PHP, Java, C++, and more.
 * Share my personal projects and work on [YouTube](https://www.youtube.com/channel/UC4HCouBLtXD1j1U_17aBqig?sub_confirmation=1) and [my blog](https://thealmostengineer.com).
 
