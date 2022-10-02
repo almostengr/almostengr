@@ -17,18 +17,24 @@ Here are some ideas to get you started:
 
 ## Personal Summary
 
-* Programmer / Software Developer who has worked in the IT industry since 2008. Previous experience includes RPA (Robotic Process Automation) and Level 2 Application Support.
-* Primarily work with C#, .NET 5, HTML, CSS, and TypeScript to create web-based applications, automations, and software solutions. In the past, I've worked with Oracle, Linux, Shell Scripting, PHP, Java, C++, and more.
-* Share my personal projects and work on [YouTube](https://www.youtube.com/channel/UC4HCouBLtXD1j1U_17aBqig?sub_confirmation=1) and [my blog](https://thealmostengineer.com).
+### Current Experience and Projects
 
-## Projects
+* Work with C#, .NET 6, HTML, CSS, and TypeScript to create web-based applications, automations, and software solutions. 
+* Share my personal projects and work on [my YouTube channel](https://www.youtube.com/channel/UC4HCouBLtXD1j1U_17aBqig?sub_confirmation=1) and [my blog](https://thealmostengineer.com).
+* I run a [Christmas Light Show](https://thealmostengineer.com/projects/christmas-light-show) each year using Falcon Pi Player.
+* [Falcon Pi Twitter](https://github.com/almostengr/falconpitwitter) is a custom application that posts the Christmas light show song information to Twitter.
+* I provide information about how to get into tech and other tech related information on the [Resources section](https://thealmostengineer.com/resources) section of my blog.
 
-You can find a full list of my projects by checking out [my repositories](https://github.com/almostengr?tab=repositories)
-and by viewing [my portfolio](https://thealmostengineer.com/projects).
+### Previous Experience and Projects
+
+* Worked with Oracle, Linux, Shell Scripting, PHP, Java, C++, RPA (Robotic Process Automation), web development, and more.
+* Previously held Level 2 Application Support, Developer, and Testing Automation roles.
+* Worked in the IT industry since 2008. 
+* You can find a full list of my projects by checking out [my repositories](https://github.com/almostengr?tab=repositories) and by viewing [my portfolio](https://thealmostengineer.com/projects).
 
 ## Connect With Me
 
-[Blog](https://thealmostengineer.com),
+[Blog](https://thealmostengineer.com)
 [Instagram](https://www.instagram.com/almostengr),
 [LinkedIn](https://www.linkedin.com/in/krobinsontech),
 [Twitter](https://twitter.com/almostengr),
