@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 * Share my personal projects and work on [my YouTube channel](https://www.youtube.com/channel/UC4HCouBLtXD1j1U_17aBqig?sub_confirmation=1) and [my blog](https://thealmostengineer.com).
 * Run a [Christmas Light Show](https://thealmostengineer.com/projects/christmas-light-show) each year using Falcon Pi Player.
 * [Falcon Pi Twitter](https://github.com/almostengr/falconpitwitter) is a custom application that posts the Christmas light show song information to Twitter.
-* I provide information about how to get into tech and other tech related information on the [Resources section](https://thealmostengineer.com/resources) section of my blog.
+* I provide information about how to get into tech and other tech related information on the [Resources section](https://thealmostengineer.com/resources)  of my blog.
 
 ### Previous Experience and Projects
 
