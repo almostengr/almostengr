@@ -19,9 +19,9 @@ Here are some ideas to get you started:
 
 ### Current Experience and Projects
 
-* Work with C#, .NET 6, HTML, CSS, and TypeScript to create web-based applications, automations, and software solutions. 
+* Creating web-based applications, automations, and software solutions using C#, .NET 6, HTML, CSS, and TypeScript. 
 * Share my personal projects and work on [my YouTube channel](https://www.youtube.com/channel/UC4HCouBLtXD1j1U_17aBqig?sub_confirmation=1) and [my blog](https://thealmostengineer.com).
-* I run a [Christmas Light Show](https://thealmostengineer.com/projects/christmas-light-show) each year using Falcon Pi Player.
+* Run a [Christmas Light Show](https://thealmostengineer.com/projects/christmas-light-show) each year using Falcon Pi Player.
 * [Falcon Pi Twitter](https://github.com/almostengr/falconpitwitter) is a custom application that posts the Christmas light show song information to Twitter.
 * I provide information about how to get into tech and other tech related information on the [Resources section](https://thealmostengineer.com/resources) section of my blog.
 
@@ -34,7 +34,7 @@ Here are some ideas to get you started:
 
 ## Connect With Me
 
-[Blog](https://thealmostengineer.com)
+[Blog](https://thealmostengineer.com),
 [Instagram](https://www.instagram.com/almostengr),
 [LinkedIn](https://www.linkedin.com/in/krobinsontech),
 [Twitter](https://twitter.com/almostengr),
