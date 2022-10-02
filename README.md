@@ -27,8 +27,8 @@ Here are some ideas to get you started:
 
 ### Previous Experience and Projects
 
-* Worked with Oracle, Linux, Shell Scripting, PHP, Java, C++, RPA (Robotic Process Automation), web development, and more.
-* Previously held Level 2 Application Support, Developer, and Testing Automation roles.
+* Worked with [Oracle](https://thealmostengineer.com/technology/2015.09.04-oracle-holidays-without-stored-procedure-with-2-week-notification), [Linux](https://thealmostengineer.com/resources/linux-cheatsheet/), Shell Scripting, PHP, Java, C++, RPA (Robotic Process Automation), web development, and more.
+* Previously held [Level 2 Application Support](https://thealmostengineer.com/technology/2020.01.10-7-lessons-from-production-support/), Developer, and [Testing Automation](https://thealmostengineer.com/technology/2019.09.05-copying-infested-code/) roles.
 * Worked in the IT industry since 2008. 
 * You can find a full list of my projects by checking out [my repositories](https://github.com/almostengr?tab=repositories) and by viewing [my portfolio](https://thealmostengineer.com/projects).
 
