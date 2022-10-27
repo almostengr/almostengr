@@ -15,9 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-## Personal Summary
-
-### Current Experience and Projects
+## Current Experience and Projects
 
 * Creating web-based applications, automations, and software solutions using 
 [C#](https://thealmostengineer.com/projects/falcon-pi-twitter), .NET 6, HTML, CSS, and TypeScript. 
@@ -26,7 +24,7 @@ Here are some ideas to get you started:
 * [Falcon Pi Twitter](https://github.com/almostengr/falconpitwitter) is a custom application that posts the Christmas light show song information to Twitter.
 * I provide information about how to get into tech and other tech related information on the [Resources section](https://thealmostengineer.com/resources)  of my blog.
 
-### Previous Experience and Projects
+## Previous Experience and Projects
 
 * Worked with [Oracle](https://thealmostengineer.com/technology/2015.09.04-oracle-holidays-without-stored-procedure-with-2-week-notification), 
 [Linux](https://thealmostengineer.com/resources/linux-cheatsheet/), 
