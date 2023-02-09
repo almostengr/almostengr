@@ -23,11 +23,11 @@ Here are some ideas to get you started:
 * Share my technical knowledge ant work on [my other YouTube channel](https://www.youtube.com/@rhtservicesllctech?sub_confirmation=1)
 * My other thoughts and code that I don't put into a repository is available on [my blog](https://thealmostengineer.com).
 * Run a [Christmas Light Show](https://thealmostengineer.com/projects/christmas-light-show) each year using Falcon Pi Player.
-* [Falcon Pi Twitter](https://github.com/almostengr/falconpitwitter) is a custom application that posts the Christmas light show song information to Twitter.
 * I provide information about how to get into tech and other tech related information on the [Resources section](https://thealmostengineer.com/resources)  of my blog.
 
 ## Previous Experience and Projects
 
+* [Falcon Pi Twitter](https://github.com/almostengr/falconpitwitter) is a custom application that posts the Christmas light show song information to Twitter.
 * Worked with [Oracle](https://thealmostengineer.com/technology/2015.09.04-oracle-holidays-without-stored-procedure-with-2-week-notification), 
 [Linux](https://thealmostengineer.com/resources/linux-cheatsheet/), 
 [Shell Scripting](https://thealmostengineer.com/technology/2022.08.30-automating-toastmasters-meeting-recordings),
