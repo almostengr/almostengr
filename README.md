@@ -36,4 +36,4 @@ PHP, Java, C++, RPA (Robotic Process Automation), web development, and more.
 * Worked in the IT industry since 2008. 
 * You can find a full list of my projects by checking out [my repositories](https://github.com/almostengr?tab=repositories) and by viewing [my portfolio](https://thealmostengineer.com/projects).
 * Tools and software that I use to get the job done can be found on [my Uses page](https://thealmostengineer.com/uses)
-* 
+
