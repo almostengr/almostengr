@@ -19,7 +19,9 @@ Here are some ideas to get you started:
 
 * Creating web-based applications, automations, and software solutions using 
 [C#](https://thealmostengineer.com/projects/falcon-pi-twitter), .NET 6, HTML, CSS, and TypeScript. 
-* Share my personal projects and work on [my YouTube channel](https://www.youtube.com/channel/UC4HCouBLtXD1j1U_17aBqig?sub_confirmation=1) and [my blog](https://thealmostengineer.com).
+* Share my home improvement knowledge and work on [my YouTube channel](https://www.youtube.com/channel/UC4HCouBLtXD1j1U_17aBqig?sub_confirmation=1) 
+* Share my technical knowledge ant work on [my other YouTube channel](https://www.youtube.com/@rhtservicesllctech?sub_confirmation=1)
+* My other thoughts and code that I don't put into a repository is available on [my blog](https://thealmostengineer.com).
 * Run a [Christmas Light Show](https://thealmostengineer.com/projects/christmas-light-show) each year using Falcon Pi Player.
 * [Falcon Pi Twitter](https://github.com/almostengr/falconpitwitter) is a custom application that posts the Christmas light show song information to Twitter.
 * I provide information about how to get into tech and other tech related information on the [Resources section](https://thealmostengineer.com/resources)  of my blog.
