@@ -27,7 +27,6 @@ Here are some ideas to get you started:
 
 ## Previous Experience and Projects
 
-* [Falcon Pi Twitter](https://github.com/almostengr/falconpitwitter) is a custom application that posts the Christmas light show song information to Twitter.
 * Worked with [Oracle](https://thealmostengineer.com/technology/2015.09.04-oracle-holidays-without-stored-procedure-with-2-week-notification), 
 [Linux](https://thealmostengineer.com/resources/linux-cheatsheet/), 
 [Shell Scripting](https://thealmostengineer.com/technology/2022.08.30-automating-toastmasters-meeting-recordings),
