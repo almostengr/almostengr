@@ -22,7 +22,8 @@ Here are some ideas to get you started:
 * Share my home improvement knowledge and work on [my YouTube channel](https://www.youtube.com/channel/UC4HCouBLtXD1j1U_17aBqig?sub_confirmation=1) 
 * Share my technical knowledge and work on [my other YouTube channel](https://www.youtube.com/@rhtservicesllctech?sub_confirmation=1)
 * My other thoughts and code that I don't put into a repository is available on [my blog](https://thealmostengineer.com).
-* Run a [Light Show](https://thealmostengineer.com/projects/light-show) each year using Falcon Pi Player.
+* Run a [Light Show](https://thealmostengineer.com/projects/light-show) each year using Falcon Pi Player. 
+Created the [Weather Monitor Plugin](https://github.com/almostengr/fpp-weather-monitor-plugin) to be used with the light show.
 * I provide information about how to get into tech and other tech related information on the [Resources section](https://thealmostengineer.com/resources)  of my blog.
 
 ## Previous Experience and Projects
