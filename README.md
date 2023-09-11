@@ -17,13 +17,12 @@ Here are some ideas to get you started:
 
 ## Current Experience and Projects
 
-* Creating web-based applications, automations, and software solutions using 
-[C#](https://thealmostengineer.com/projects/falcon-pi-twitter), .NET 6, HTML, CSS, and TypeScript. 
+* Creating web-based applications, automations, and software solutions using PHP, C#, .NET 6, HTML, CSS, and TypeScript. 
 * Share my home improvement knowledge and work on [my YouTube channel](https://www.youtube.com/channel/UC4HCouBLtXD1j1U_17aBqig?sub_confirmation=1) 
 * Share my technical knowledge and work on [my other YouTube channel](https://www.youtube.com/@rhtservicesllctech?sub_confirmation=1)
 * My other thoughts and code that I don't put into a repository is available on [my blog](https://thealmostengineer.com).
 * Run a [Light Show](https://thealmostengineer.com/projects/light-show) each year using Falcon Pi Player. 
-Created the [Weather Monitor Plugin](https://github.com/almostengr/fpp-weather-monitor-plugin) to be used with the light show.
+Integrated the light show with my website for jukebox functionality and displaying the current song information via the [Light Show Extender](https://thealmostengineer.com/projects/light-show-extender) project.
 * I provide information about how to get into tech and other tech related information on the [Resources section](https://thealmostengineer.com/resources)  of my blog.
 
 ## Previous Experience and Projects
