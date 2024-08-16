@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 ## Current Experience and Projects
 
-* Creating web-based applications, automations, and software solutions using PHP, C#, .NET 6, HTML, CSS, and TypeScript. 
+* Creating web-based applications, automations, and software solutions using PHP, .NET 8 C#, HTML, CSS, and TypeScript. 
 * Share my home improvement knowledge and work on [my YouTube channel](https://www.youtube.com/channel/UC4HCouBLtXD1j1U_17aBqig?sub_confirmation=1) 
 * Share my technical knowledge and work on [my other YouTube channel](https://www.youtube.com/@rhtservicesllctech?sub_confirmation=1)
 * My other thoughts and code that I don't put into a repository is available on [my blog](https://thealmostengineer.com).
